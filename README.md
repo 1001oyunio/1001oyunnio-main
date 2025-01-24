@@ -4,7 +4,7 @@
 <center>
 <br>
 <a href="https://1001oyun.io/" title="1001 Oyun">
-<img src="https://ibb.co/bKZvQwJ" alt="1001 Oyun" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;">
+<img src="https://i.ibb.co/ZMPgG4m/1001oyunio.jpg" alt="1001 Oyun" style="max-width: 100%; border: 2px solid #ddd; border-radius: 10px;">
 </a>
 </center>
 
